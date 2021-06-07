@@ -1,3 +1,6 @@
+# This is an <h1> header, which is the largest- 
+- 
+- 
 - 👋 Hi, I’m @interior-crocodile-alligator
 - 👀 I’m interested in computer
 - 🌱 I’m currently learning github
